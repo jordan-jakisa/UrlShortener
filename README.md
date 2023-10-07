@@ -2,4 +2,7 @@
 
 A simple URL link shortener that uses tinyurl built using html, css and javascript
 
-![UrlShortener Img](https://github.com/jordan-jakisa/UrlShortener/assets/72340216/2f297b06-c45a-4b41-a1c5-521cf646cff7)
+https://github.com/jordan-jakisa/UrlShortener/assets/72340216/d34dd3ee-9f57-44d7-bae4-40fbf63a0f4f
+
+
+
